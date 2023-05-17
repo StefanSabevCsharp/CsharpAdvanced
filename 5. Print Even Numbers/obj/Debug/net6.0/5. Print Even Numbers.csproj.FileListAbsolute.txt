@@ -1,0 +1,15 @@
+C:\Users\steve\source\repos\Lab Stacks and Queues\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.exe
+C:\Users\steve\source\repos\Lab Stacks and Queues\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.deps.json
+C:\Users\steve\source\repos\Lab Stacks and Queues\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.runtimeconfig.json
+C:\Users\steve\source\repos\Lab Stacks and Queues\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.dll
+C:\Users\steve\source\repos\Lab Stacks and Queues\5. Print Even Numbers\bin\Debug\net6.0\5. Print Even Numbers.pdb
+C:\Users\steve\source\repos\Lab Stacks and Queues\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\Lab Stacks and Queues\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\source\repos\Lab Stacks and Queues\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\steve\source\repos\Lab Stacks and Queues\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.AssemblyInfo.cs
+C:\Users\steve\source\repos\Lab Stacks and Queues\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\Lab Stacks and Queues\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.dll
+C:\Users\steve\source\repos\Lab Stacks and Queues\5. Print Even Numbers\obj\Debug\net6.0\refint\5. Print Even Numbers.dll
+C:\Users\steve\source\repos\Lab Stacks and Queues\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.pdb
+C:\Users\steve\source\repos\Lab Stacks and Queues\5. Print Even Numbers\obj\Debug\net6.0\5. Print Even Numbers.genruntimeconfig.cache
+C:\Users\steve\source\repos\Lab Stacks and Queues\5. Print Even Numbers\obj\Debug\net6.0\ref\5. Print Even Numbers.dll
