@@ -1,0 +1,15 @@
+C:\Users\steve\source\repos\Lab Stacks and Queues\Lab Stacks and Queues\bin\Debug\net6.0\Lab Stacks and Queues.exe
+C:\Users\steve\source\repos\Lab Stacks and Queues\Lab Stacks and Queues\bin\Debug\net6.0\Lab Stacks and Queues.deps.json
+C:\Users\steve\source\repos\Lab Stacks and Queues\Lab Stacks and Queues\bin\Debug\net6.0\Lab Stacks and Queues.runtimeconfig.json
+C:\Users\steve\source\repos\Lab Stacks and Queues\Lab Stacks and Queues\bin\Debug\net6.0\Lab Stacks and Queues.dll
+C:\Users\steve\source\repos\Lab Stacks and Queues\Lab Stacks and Queues\bin\Debug\net6.0\Lab Stacks and Queues.pdb
+C:\Users\steve\source\repos\Lab Stacks and Queues\Lab Stacks and Queues\obj\Debug\net6.0\Lab Stacks and Queues.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\Lab Stacks and Queues\Lab Stacks and Queues\obj\Debug\net6.0\Lab Stacks and Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\source\repos\Lab Stacks and Queues\Lab Stacks and Queues\obj\Debug\net6.0\Lab Stacks and Queues.AssemblyInfoInputs.cache
+C:\Users\steve\source\repos\Lab Stacks and Queues\Lab Stacks and Queues\obj\Debug\net6.0\Lab Stacks and Queues.AssemblyInfo.cs
+C:\Users\steve\source\repos\Lab Stacks and Queues\Lab Stacks and Queues\obj\Debug\net6.0\Lab Stacks and Queues.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\Lab Stacks and Queues\Lab Stacks and Queues\obj\Debug\net6.0\Lab Stacks and Queues.dll
+C:\Users\steve\source\repos\Lab Stacks and Queues\Lab Stacks and Queues\obj\Debug\net6.0\refint\Lab Stacks and Queues.dll
+C:\Users\steve\source\repos\Lab Stacks and Queues\Lab Stacks and Queues\obj\Debug\net6.0\Lab Stacks and Queues.pdb
+C:\Users\steve\source\repos\Lab Stacks and Queues\Lab Stacks and Queues\obj\Debug\net6.0\Lab Stacks and Queues.genruntimeconfig.cache
+C:\Users\steve\source\repos\Lab Stacks and Queues\Lab Stacks and Queues\obj\Debug\net6.0\ref\Lab Stacks and Queues.dll

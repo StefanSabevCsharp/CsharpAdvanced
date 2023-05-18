@@ -1,0 +1,15 @@
+C:\Users\steve\source\repos\Lab Stacks and Queues\7. Hot Potato\bin\Debug\net6.0\7. Hot Potato.exe
+C:\Users\steve\source\repos\Lab Stacks and Queues\7. Hot Potato\bin\Debug\net6.0\7. Hot Potato.deps.json
+C:\Users\steve\source\repos\Lab Stacks and Queues\7. Hot Potato\bin\Debug\net6.0\7. Hot Potato.runtimeconfig.json
+C:\Users\steve\source\repos\Lab Stacks and Queues\7. Hot Potato\bin\Debug\net6.0\7. Hot Potato.dll
+C:\Users\steve\source\repos\Lab Stacks and Queues\7. Hot Potato\bin\Debug\net6.0\7. Hot Potato.pdb
+C:\Users\steve\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.AssemblyInfoInputs.cache
+C:\Users\steve\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.AssemblyInfo.cs
+C:\Users\steve\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.dll
+C:\Users\steve\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net6.0\refint\7. Hot Potato.dll
+C:\Users\steve\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.pdb
+C:\Users\steve\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net6.0\7. Hot Potato.genruntimeconfig.cache
+C:\Users\steve\source\repos\Lab Stacks and Queues\7. Hot Potato\obj\Debug\net6.0\ref\7. Hot Potato.dll
