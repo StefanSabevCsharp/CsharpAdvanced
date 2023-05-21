@@ -1,0 +1,15 @@
+C:\Users\steve\source\repos\ExerciseStacks and Queues\09. Simple Text Editor\bin\Debug\net6.0\09. Simple Text Editor.exe
+C:\Users\steve\source\repos\ExerciseStacks and Queues\09. Simple Text Editor\bin\Debug\net6.0\09. Simple Text Editor.deps.json
+C:\Users\steve\source\repos\ExerciseStacks and Queues\09. Simple Text Editor\bin\Debug\net6.0\09. Simple Text Editor.runtimeconfig.json
+C:\Users\steve\source\repos\ExerciseStacks and Queues\09. Simple Text Editor\bin\Debug\net6.0\09. Simple Text Editor.dll
+C:\Users\steve\source\repos\ExerciseStacks and Queues\09. Simple Text Editor\bin\Debug\net6.0\09. Simple Text Editor.pdb
+C:\Users\steve\source\repos\ExerciseStacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\ExerciseStacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\source\repos\ExerciseStacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.AssemblyInfoInputs.cache
+C:\Users\steve\source\repos\ExerciseStacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.AssemblyInfo.cs
+C:\Users\steve\source\repos\ExerciseStacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\ExerciseStacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.dll
+C:\Users\steve\source\repos\ExerciseStacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\refint\09. Simple Text Editor.dll
+C:\Users\steve\source\repos\ExerciseStacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.pdb
+C:\Users\steve\source\repos\ExerciseStacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\09. Simple Text Editor.genruntimeconfig.cache
+C:\Users\steve\source\repos\ExerciseStacks and Queues\09. Simple Text Editor\obj\Debug\net6.0\ref\09. Simple Text Editor.dll
